@@ -1,4 +1,4 @@
-let wordsInDictionary = ["mancare", "piramida", "abecedar", "cartof", "programare", "mizerie"];
+let wordsInDictionary = ["food", "queue", "discombobulated", "coding", "language", "dream", "neuroscience"];
 
 function saveWord() {
     let input = document.querySelector('.form-control');
